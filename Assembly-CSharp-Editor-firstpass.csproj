@@ -719,6 +719,12 @@
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/zuko/Repos/Unity2D/Udemy Games/Tilevania/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>/Users/zuko/Repos/Unity2D/Udemy Games/Tilevania/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>/Users/zuko/Repos/Unity2D/Udemy Games/Tilevania/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
